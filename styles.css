@@ -2,11 +2,13 @@ head-1 {
     background-color:  #FAFAD2;
     background-image: linear-gradient( #CFCFCF, white);
     text-align: center;
+    Width:50% ;
 }
 .tieude1 {
     font-size: 100px;
     text-shadow: 8px 3px gainsboro;
     text-align: center;
+    Width:50%;
 }
 .head-1 p {
     font-size: 30px;
@@ -25,13 +27,13 @@ head-1 {
 }
 /* container menu */
 .container-menu1 {
-    width: 500px;
+    width: 50%;
     height: 435px;
     border-radius: 24px;
     border: 2px solid gray;
 }
 .container-menu2 {
-    width: 500px;
+    width: 50%;
     height: 435px;
     border-radius: 24px;
     border: 2px solid gray;
