@@ -4,8 +4,9 @@ head-1 {
     text-align: center;
 }
 .tieude1 {
-    font-size: 50px;
-    text-shadow: 5px 2px gainsboro;
+    font-size: 100px;
+    text-shadow: 8px 3px gainsboro;
+    text-align: center;
 }
 .head-1 p {
     font-size: 30px;
