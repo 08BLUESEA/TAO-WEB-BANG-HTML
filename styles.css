@@ -10,6 +10,8 @@ head-1 {
 }
 .head-1 p {
     font-size: 30px;
+    text-align: center;
+    background-color:tomato;
 }
 .container {
     background-color: #CFCFCF;
